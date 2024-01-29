@@ -1,7 +1,9 @@
 <h1 align="center">Hi There 👋🏻, I'm John Conner 😊</h1>
 <h3 align="center">I'm a first year Computer Science student at Brunel University London, and an aspiring Software Engineer 👨🏻‍💻</h3>
 
-- I currently program in **Python 🐍, Java ☕️, and Javascript 🟨.**
+- My current lanugages of choice are **Python 🐍, Java ☕️, and Javascript 🟨.**
+
+- **Current project:** A fullstack online banking mockup similar to that of major banks such as Nationwide, Santander etc.
 
 
 <h3 align="left">Languages and Tools:</h3>
