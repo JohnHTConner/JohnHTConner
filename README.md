@@ -1,9 +1,7 @@
 <h1 align="center">Hi There 👋🏻, I'm John Conner 😊</h1>
-<h3 align="center">A first year Computer Science student, and an aspiring Software Engineer 👨🏻‍💻</h3>
+<h3 align="center">I'm a first year Computer Science student at Brunel University London, and an aspiring Software Engineer 👨🏻‍💻</h3>
 
-- I’m currently learning **Python 🐍, Java ☕️, and Javascript 🟨.**
-
-- **Google is my best friend 🔎**
+- I currently program in **Python 🐍, Java ☕️, and Javascript 🟨.**
 
 
 <h3 align="left">Languages and Tools:</h3>
