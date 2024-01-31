@@ -1,5 +1,5 @@
 ## Hi, I'm John Conner 😁
-I'm a first-year Computer Science student at Brunel University London. Coding is my passion, and I aspire to become a software engineer  and make positive impact on how people connectwith software. I'm always open to diverse tech experiences, whether that's hackathons, confrences etc. <br> <br>
+I'm a first-year Computer Science student at Brunel University London. Coding is my passion, and I aspire to become a software engineer to create a positive impact on how people connect with software. I'm always open to diverse tech experiences, whether that's hackathons, confrences etc. <br> <br>
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 Feel free to connect with me on LinkedIn 😊.
 
