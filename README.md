@@ -1,10 +1,19 @@
-<h1 align="center">Hi There 👋🏻, I'm John Conner 😊</h1>
-<h3 align="center">I'm a first year Computer Science student at Brunel University London, and an aspiring Software Engineer 👨🏻‍💻</h3>
+# 👨🏻‍💻 John Conner
+**`Aspiring Software Engineer - 1st year CS student @ Brunel University London`**
 
-- My current lanugages of choice are **Python 🐍, Java ☕️, and Javascript 🟨.**
+I'm a first-year Computer Science student at Brunel University London. Coding is my passion, <br>and I aspire to become a software engineer  and make positive impact on how people connect<br>with software. I'm always open to diverse tech experiences, whether that's hackathons, confrences etc.<br>Feel free to connect with me on LinkedIn 😊.
 
-- **Current project:** A fullstack online banking mockup similar to that of major banks such as Nationwide, Santander etc.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JohnConner29) 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+![](https://github-readme-stats.vercel.app/api?username=johnhtconner&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false) 
+ 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnhtconner&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+‎ 
+‎ 
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+
