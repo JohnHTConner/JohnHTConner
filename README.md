@@ -4,7 +4,7 @@ I'm a first-year Computer Science student at Brunel University London. Coding is
 Feel free to connect with me on LinkedIn 😊.
 
 ‎
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JohnConner29) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jhtconner/) 
 
 
 ![](https://github-readme-stats.vercel.app/api?username=johnhtconner&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false) 
