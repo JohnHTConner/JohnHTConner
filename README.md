@@ -7,7 +7,6 @@ Feel free to connect with me on LinkedIn 😊.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jhtconner/) 
 
 
-![](https://github-readme-stats.vercel.app/api?username=johnhtconner&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false) 
  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnhtconner&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
