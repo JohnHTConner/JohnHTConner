@@ -3,7 +3,7 @@
 I'm a BSc Computer Science student at Brunel University London based in Uxbridge, London. 
 
 - 🏢 I'm currently in my 1st year of my degree, and will graduate in 2027.
-- ⚙️ I use: ```.java```, ```.js```, ```.py```, ```.html```, ```.css```, ```.md```, ```.json```, ```.yml```, ```.sql```, ```.xml```
+- ⚙️ I use: ```.java```, ```.py```, ```.html```, ```.css```, ```.js```, ```.json```, ```.yml```, ```.sql```, ```.xml```, ```.md```
 - 🌱 Learning more about and studying: SpringBoot, React, CS D&A's, Machine Learning.
 - 💬 Reach out about: Any tech related opportunities, or general chat :)
 <br><br>
