@@ -1,4 +1,4 @@
-# Hey, I'm John Conner 🪼
+# Hey, I'm John Conner 🫧
 
 I'm a BSc Computer Science student at Brunel University London based in Uxbridge, London. 
 
